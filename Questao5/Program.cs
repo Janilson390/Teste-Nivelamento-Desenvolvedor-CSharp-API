@@ -1,6 +1,7 @@
 using MediatR;
 using Questao5.Infrastructure.Sqlite;
 using System.Reflection;
+using IdempotentAPI.Cache.DistributedCache.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,10 @@ builder.Services.AddSingleton<IDatabaseBootstrap, DatabaseBootstrap>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddIdempotentAPIUsingDistributedCache();
+
 
 var app = builder.Build();
 
@@ -39,7 +44,7 @@ app.Services.GetService<IDatabaseBootstrap>().Setup();
 
 app.Run();
 
-// Informações úteis:
+// Informaï¿½ï¿½es ï¿½teis:
 // Tipos do Sqlite - https://www.sqlite.org/datatype3.html
 
 

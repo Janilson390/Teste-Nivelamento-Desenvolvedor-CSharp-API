@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj": {}
+    "D:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "d:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj": {
+    "D:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "D:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "d:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj",
+        "projectPath": "D:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\Questao2.csproj",
         "packagesPath": "C:\\Users\\Mayara Freire\\.nuget\\packages\\",
-        "outputPath": "d:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\obj\\",
+        "outputPath": "D:\\Janilson\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mayara Freire\\AppData\\Roaming\\NuGet\\NuGet.Config"

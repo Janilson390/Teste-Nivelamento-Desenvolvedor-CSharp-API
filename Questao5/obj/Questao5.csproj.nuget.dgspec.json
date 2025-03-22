@@ -51,6 +51,14 @@
               "target": "Package",
               "version": "[6.7.0, )"
             },
+            "IdempotentAPI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "IdempotentAPI.Cache.DistributedCache": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[11.0.0, )"
