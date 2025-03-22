@@ -1,0 +1,14 @@
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\bin\Debug\net6.0\Questao1.exe
+d:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\bin\Debug\net6.0\Questao1.deps.json
+d:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\bin\Debug\net6.0\Questao1.dll
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\bin\Debug\net6.0\Questao1.pdb
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\Questao1.dll
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+D:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\Questao1.pdb
+d:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+d:\Janilson\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao1\obj\Debug\net6.0\ref\Questao1.dll
