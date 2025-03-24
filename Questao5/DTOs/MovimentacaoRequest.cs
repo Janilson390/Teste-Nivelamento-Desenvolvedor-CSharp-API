@@ -1,9 +1,12 @@
+using Questao5.Domain.Entities;
+
 namespace Questao5.DTOs;
 
 public class MovimentacaoRequest
 {
-    public string RequestId { get; set; }
-    public int ContaId { get; set; }
-    public decimal Valor { get; set; }
-    public string Tipo { get; set; } // "C" para crédito, "D" para débito
+    public int Id { get; set; }
+    public int IdContacorrente { get; set; }
+    public double Valor { get; set; }
+    public char Tipo { get; set; }
+    public string? Resultado { get; set; }
 }
